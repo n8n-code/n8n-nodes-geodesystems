@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-geodesystems",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search data across sources; manage documents, photos, knowledge; collaborate via blogs, wikis, dashboards.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-geodesystems",
